@@ -1,5 +1,4 @@
 
-📄 script.js
 const chat=document.getElementById('chat');
 const input=document.getElementById('msg');
 document.getElementById('send').onclick=()=>{
@@ -19,7 +18,5 @@ d.innerText=text;
 chat.appendChild(d);
 chat.scrollTop=chat.scrollHeight;
 }
-NEXT STEPS & COMMUNITY
-🔜 Episode 4: THE VOICE PROTOCOL
-మన JARVIS కి Body వచిర్చింది. Next Episode ‌లో దానికి Voice ఇసాస్తా ం!
+
   
